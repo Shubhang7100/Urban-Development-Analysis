@@ -1,6 +1,6 @@
 ﻿City,Terrain,Actual Area(sq km),Population(cr),Altitude(m),Birth Rate(lakhs/year)
-Delhi ,Aravali,1483,3,300,3.6
-Mumbai + Pune,Plains,1332,2.13,14,3.07
-Hyderabad,Hills,650,1,542,1.14
-Bangalore,Plateau,741,1.24,920,1.31
-Ranchi,Plateau,175,0.15,651,0.57
+Delhi,Aravali,1483,1.68,239,2.87
+Hyderabad,Hills,650,0.68,536,1.14
+Bangalore,Plateau,741,0.96,920,1.31
+Mumbai,Plains,603.4,1.8,14,0.38
+Ranchi,Plateau,175,0.29,651,0.57
